@@ -1,5 +1,9 @@
 [
   {
+    "package": "driveR",
+    "oncran": true
+  },
+  {
     "package": "pathfindR",
     "oncran": true
   },

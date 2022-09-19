@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "driveR"]
+	path = driveR
+	url = https://github.com/egeulgen/driver
+	shallow = true
+	registered = true
 [submodule "pathfindR"]
 	path = pathfindR
 	url = https://github.com/egeulgen/pathfindr
