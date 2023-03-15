@@ -1,6 +1,6 @@
 [
   {
-    "package": "pathfindR.data",
+    "package": "driveR",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "driveR",
+    "package": "pathfindR.data",
     "oncran": true
   }
 ]
