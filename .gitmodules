@@ -8,6 +8,11 @@
 	url = https://github.com/egeulgen/driver
 	shallow = true
 	registered = true
+[submodule "PANACEA"]
+	path = PANACEA
+	url = https://github.com/egeulgen/panacea
+	shallow = true
+	registered = true
 [submodule "pathfindR"]
 	path = pathfindR
 	url = https://github.com/egeulgen/pathfindr
