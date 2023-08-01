@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "driveR"]
-	path = driveR
-	url = https://github.com/egeulgen/driver
 [submodule "PANACEA"]
 	path = PANACEA
 	url = https://github.com/egeulgen/panacea
+[submodule "driveR"]
+	path = driveR
+	url = https://github.com/egeulgen/driver
 [submodule "pathfindR"]
 	path = pathfindR
 	url = https://github.com/egeulgen/pathfindr
